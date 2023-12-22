@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SelectingCookieSettings" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-20T21:06:56" hostname="ADMIN90" time="12.518">
+  <properties/>
+  <testcase name="SelectingCookieSettingsPolytika()" classname="SelectingCookieSettings" time="10.418"/>
+  <testcase name="SelectingCookieSettingslist()" classname="SelectingCookieSettings" time="2.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[дек. 21, 2023 12:06:57 AM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+дек. 21, 2023 12:07:00 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 120
+дек. 21, 2023 12:07:00 AM org.openqa.selenium.chromium.ChromiumDriver lambda$new$4
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.10.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
